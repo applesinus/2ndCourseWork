@@ -1,0 +1,22 @@
+{
+	var1=new(10);
+	{
+		var2=new(10);
+		ShowVar;
+		{
+			{
+				var3=new(5);
+			}
+			{
+				var4=new(5);
+			}
+			ShowVar;
+			var5=new(11);
+			var6=new(10);
+		}
+		var7=new(9);
+	}
+	var8=new(21);
+	var9=new(20);
+	ShowVar;
+}

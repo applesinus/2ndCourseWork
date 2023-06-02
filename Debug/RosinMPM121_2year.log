@@ -1,0 +1,6 @@
+﻿  RosinMPM121_2year.cpp
+E:\cppProjects\RosinMPM121_2year\RosinMPM121_2year.cpp(23,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\cppProjects\RosinMPM121_2year\RosinMPM121_2year.cpp(80,35): warning C4018: <: несоответствие типов со знаком и без знака
+E:\cppProjects\RosinMPM121_2year\RosinMPM121_2year.cpp(107,39): warning C4018: <: несоответствие типов со знаком и без знака
+E:\cppProjects\RosinMPM121_2year\RosinMPM121_2year.cpp(134,35): warning C4018: <: несоответствие типов со знаком и без знака
+  RosinMPM121_2year.vcxproj -> E:\cppProjects\RosinMPM121_2year\Debug\RosinMPM121_2year.exe
